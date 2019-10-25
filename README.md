@@ -9,10 +9,12 @@ This dataset includes:
 Please cite the following paper when using IPOD: 
 
 ```
-@inproceedings{junhua2019arxiv,
-  title={Coming soon...},
-  author={Coming soon...},
-  booktitle = {Coming soon...},
-  year      = {2019}
+@misc{liu2019ipod,
+    title={IPOD: Corpus of 190,000 Industrial Occupations},
+    author={Junhua Liu and Chu Guo and Yung Chuen Ng and Kristin L. Wood and Kwan Hui Lim},
+    year={2019},
+    eprint={1910.10495},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
 }
 ```
