@@ -1,8 +1,9 @@
 # Industrial and Professional Occupations Dataset (IPOD)
 
-This dataset includes:
+This repo includes:
 * **A Gazetteer** of tokens and NE tags annotated by 3 domain experts
 * **A Corpus** of 192,000 job titles crawled from Linkedin, with NE tags prefixed using BIOES schemes
+* **Title2Vec** pre-trained job title embedding, finetuned from ElMO
 
 ## Citing IPOD
 
