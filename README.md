@@ -1,5 +1,10 @@
 # Industrial and Professional Occupations Dataset (IPOD)
 
+
+[![License: MIT](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.pdf)
+[![Star welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+---
+
 This repo includes:
 * **A Gazetteer** of tokens and NE tags annotated by 3 domain experts
 * **A Corpus** of 192,000 job titles crawled from Linkedin, with NE tags prefixed using BIOES schemes
