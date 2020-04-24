@@ -2,8 +2,6 @@
 
 
 [![License: MIT](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.pdf)
-[![star this repo](http://githubbadges.com/star.svg?user=junhua&repo=ipod)](http://github.com/ddavison/github-badges)
----
 
 This repo includes:
 * **A Gazetteer** of tokens and NE tags annotated by 3 domain experts
