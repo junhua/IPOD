@@ -2,7 +2,7 @@
 
 
 [![License: MIT](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.pdf)
-[![Star welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![star this repo](http://githubbadges.com/star.svg?user=junhua&repo=ipod)](http://github.com/ddavison/github-badges)
 ---
 
 This repo includes:
