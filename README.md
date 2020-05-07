@@ -13,12 +13,11 @@ This repo includes:
 Please cite the following paper when using IPOD: 
 
 ```
-@misc{liu2019ipod,
-    title={IPOD: Corpus of 190,000 Industrial Occupations},
-    author={Junhua Liu and Chu Guo and Yung Chuen Ng and Kristin L. Wood and Kwan Hui Lim},
+@article{liu2019ipod,
+    title={IPOD: An Industrial and Professional Occupations Dataset and its Applications to Occupational Data Mining and Analysis},
+    author={Junhua Liu and Yung Chuen Ng and Kristin L. Wood and Kwan Hui Lim},
     year={2019},
-    eprint={1910.10495},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+    journal={ArXiv},
+    volume={abs/1910.10495}
 }
 ```
