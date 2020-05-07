@@ -17,7 +17,6 @@ Please cite the following paper when using IPOD:
     title={IPOD: An Industrial and Professional Occupations Dataset and its Applications to Occupational Data Mining and Analysis},
     author={Junhua Liu and Yung Chuen Ng and Kristin L. Wood and Kwan Hui Lim},
     year={2019},
-    journal={ArXiv},
-    volume={abs/1910.10495}
+    journal={arXiv preprint arXiv:1910.10495}
 }
 ```
