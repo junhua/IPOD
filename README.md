@@ -19,11 +19,4 @@ Please cite the following papers when using IPOD:
     year={2019},
     journal={arXiv preprint arXiv:1910.10495}
 }
-
-@article{liu2020ipod,
-    title={A Large-scale Industrial and Professional Occupation Dataset},
-    author={Junhua Liu and Yung Chuen Ng and Kwan Hui Lim},
-    year={2020},
-    journal={arXiv preprint arXiv:2005.02780}
-}
 ```
