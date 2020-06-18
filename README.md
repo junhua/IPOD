@@ -5,7 +5,7 @@
 
 This repo includes:
 * **A Gazetteer** of tokens and NE tags annotated by 3 domain experts
-* **A Corpus** of 192,000 job titles crawled from Linkedin, with NE tags prefixed using BIOES schemes
+* **A Corpus** of 475,085 job titles crawled from Linkedin, with NE tags prefixed using BIOES schemes
 * **Title2Vec** pre-trained job title embedding finetuned from [ELMo](https://github.com/allenai/bilm-tf). Checkpoint available for [Download](https://drive.google.com/open?id=1xtTYiMEy824lFvID140w-CKhRiC2Eg--).
 
 ## Citing IPOD
