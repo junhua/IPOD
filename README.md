@@ -1,6 +1,6 @@
 # Industrial and Professional Occupations Dataset (IPOD)
 
-[![License: MIT](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.pdf)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 <br>
 
 This repo includes:
