@@ -13,10 +13,11 @@ This repo includes:
 Please cite the following papers when using IPOD: 
 
 ```
-@article{liu2019ipod,
-    title={IPOD: An Industrial and Professional Occupations Dataset and its Applications to Occupational Data Mining and Analysis},
-    author={Junhua Liu and Yung Chuen Ng and Kristin L. Wood and Kwan Hui Lim},
-    year={2019},
-    journal={arXiv preprint arXiv:1910.10495}
+@inproceedings{liu2020ipod,
+  title={IPOD: A Large-scale Industrial and Professional Occupation Dataset},
+  author={Liu, Junhua and Ng, Yung Chuen and Wood, Kristin L. and Lim, Kwan Hui},
+  booktitle={Proceedings of the 2020 ACM Conference on Computer Supported Cooperative Work and Social Computing Companion (CSCW'20)},
+  pages={323--328},
+  year={2020}
 }
 ```
